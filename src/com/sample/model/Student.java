@@ -1,4 +1,4 @@
-package com.github.elizabetht.model;
+package com.sample.model;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package com.github.elizabetht.util;
+package com.sample.util;
 
 import java.io.InputStream;
 import java.sql.Connection;

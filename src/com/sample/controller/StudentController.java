@@ -1,4 +1,4 @@
-package com.github.elizabetht.controller;
+package com.sample.controller;
 
 import java.io.IOException;
 
@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.github.elizabetht.repository.StudentRepository;
+import com.sample.repository.StudentRepository;
 
 /**
  * Servlet implementation class StudentController

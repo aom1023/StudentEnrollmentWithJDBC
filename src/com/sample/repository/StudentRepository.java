@@ -1,4 +1,4 @@
-package com.github.elizabetht.repository;
+package com.sample.repository;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-import com.github.elizabetht.util.DbUtil;
+import com.sample.util.DbUtil;
 
 public class StudentRepository {
 	private Connection dbConnection;
